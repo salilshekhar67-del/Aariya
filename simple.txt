@@ -1,6 +1,0 @@
-reportlab
-pandas
-matplotlib
-langgraph
-langchain-openai
-langchain-community
