@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-groq
+matplotlib
+pydantic
+reportlab
+google-generativeai
